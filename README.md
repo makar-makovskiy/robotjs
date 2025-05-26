@@ -14,6 +14,3 @@
 git clone https://github.com/makar-makovskiy/robotjs.git
 cd robotjs
 npm install
-
-### Запуск
-- npm run dev
