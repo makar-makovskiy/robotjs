@@ -9,8 +9,12 @@
 
 ## 🚀 Быстрый старт
 
+### Запуск
+npm run dev
+
 ### Установка
 ```bash
 git clone https://github.com/makar-makovskiy/robotjs.git
 cd robotjs
 npm install
+
