@@ -9,13 +9,11 @@
 
 ## 🚀 Быстрый старт
 
-### Предварительные требования
-- Node.js ≥ 14.x
-- npm/yarn
-- Git
-
 ### Установка
 ```bash
 git clone https://github.com/makar-makovskiy/robotjs.git
 cd robotjs
 npm install
+
+### Запуск
+- npm run dev
